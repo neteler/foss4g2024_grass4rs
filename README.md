@@ -8,17 +8,16 @@ processing and analysis in combination with other core modules and addons in a w
 going from data search and download to supervised classification of different scenes 
 and visualization of results.
 
-The workshop will be run in [Google Colab](https://colab.research.google.com/), attendants 
-do not need to install any software in their machines.
-
-## Running the notebook in Google Colab
+:exclamation: **The workshop will be run in [Google Colab](https://colab.research.google.com/), attendants do not need to install any software in their machines.**
 
 To open the notebook in [Google Colab](https://colab.research.google.com/), just use the URL 
-of this repository:
+of this repository as shown below:
 
 ![Google Colab](img/launch_google_colab.png)
 
-## Software requirements for running the notebook locally
+---
+
+## Software requirements for running the notebook locally (try at home)
 
 ### GRASS GIS
 
