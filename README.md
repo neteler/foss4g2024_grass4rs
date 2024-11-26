@@ -59,7 +59,7 @@ Have a look at: http://grassmac.wikidot.com/downloads
 Please install other required python packages with: 
 
 ```
-python -m pip install eodag notebook folium ipyleaflet scikit-learn pandas numpy seaborn matplotlib
+python -m pip install eodag[usgs] notebook folium ipyleaflet scikit-learn pandas numpy seaborn matplotlib
 ```
 
 ## Data
