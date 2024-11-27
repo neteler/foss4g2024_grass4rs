@@ -23,7 +23,7 @@ of this repository as shown below:
 
 We will use **GRASS GIS 8.4+**. It can be installed either through standalone
 installers/binaries or through [OSGeo-Live](https://live.osgeo.org/en/index.html)
-(a Linux based virtual machine which includes all OSGeo software and packages).
+(a Linux-based virtual machine that includes all OSGeo software and packages).
 
 ##### MS Windows
 
@@ -32,7 +32,7 @@ There are two different options:
 2. [Standalone installer 64-bit](https://grass.osgeo.org/grass84/binary/mswindows/native/WinGRASS-8.4.0-1-Setup.exe)
 
 For Windows users, **we strongly recommend installing GRASS GIS through the OSGeo4W package** (first option),
-since it allows to install all OSGeo software.
+since it allows the installation of all OSGeo software.
 
 ##### Ubuntu Linux
 
@@ -47,7 +47,7 @@ sudo apt-get install grass grass-gui grass-dev
 ##### Fedora, openSuSe Linux
 
 For other Linux distributions including **Fedora** and **openSuSe**,
-simply install GRASS GIS with the respective package manager.
+install GRASS GIS with the respective package manager.
 See also [here](https://grass.osgeo.org/download/linux/#GRASS-GIS-current).
 
 ##### Mac OS
@@ -56,7 +56,7 @@ Have a look at: http://grassmac.wikidot.com/downloads
 
 ## Other required Python packages
 
-Please install other required python packages with: 
+Please install other required Python packages with the following: 
 
 ```
 python -m pip install eodag[usgs] notebook folium ipyleaflet scikit-learn pandas numpy seaborn matplotlib
@@ -86,4 +86,4 @@ password
 
 ## Lecturer
 
-- [Veronica Andreo](https://veroandreo.gitlab.io/) holds a PhD in Biology and an MSc in Remote Sensing and GIS Applications. She is a researcher for CONICET working at the Argentinian Space Agency. Her main interests are remote sensing and GIS tools for disease ecology research and applications. She is part of the GRASS Dev Team, currently serving as PSC chair.
+- [Veronica Andreo](https://veroandreo.gitlab.io/) holds a PhD in Biology and an MSc in Remote Sensing and GIS Applications. She is a researcher for CONICET working at Gulich Institute, in the Argentinian Space Agency. Her main interests are remote sensing and GIS tools for disease ecology research and applications. She is part of the GRASS Dev Team, currently serving as PSC chair.
